@@ -1,4 +1,6 @@
-# 줄넘기 개수 측정 프로그램
+# 줄넘기 개수 측정 프로그램(개인 프로젝트)
+
+<br/>
 
 ## 프로그램 소개
 줄넘기 개수 측정 프로그램은 인공지능 기술 기반으로 사용자의 줄넘기 수행 영상을 입력으로 받아 프레임별 각 관절 좌표 데이터를 이용하여 줄넘기 수행 개수를 측정하는 프로그램입니다.
@@ -13,14 +15,30 @@
 <br/>
 
 ## 기술 스택
-- 언어
+- ### 언어
    - Python
-- 라이브러리
+
+- ### 라이브러리
    - Tensorflow
    - Openpose
    - OpenCV
-- 인공지능 모델
-   - 
+     
+- ### 인공지능 모델
+   - Gradient Boosting Classifier
+   - KNeighbors Classifier
+   - Logistic Regression
+   - Random Forest Classifier
+   - Support Vector Classifier
+   - DNN
+   - LSTM
+
+<br/>
+
+## 프로그램 시나리오
+
+<br/>
+
+![image](https://github.com/KJirung/Jump-rope-count-measurement-program/assets/142071404/ffeb73b0-ed7d-421f-8ab6-43a0bcf90208)
 
 
-## 
+
