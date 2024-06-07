@@ -40,5 +40,8 @@
 
 ![image](https://github.com/KJirung/Jump-rope-count-measurement-program/assets/142071404/ffeb73b0-ed7d-421f-8ab6-43a0bcf90208)
 
+<br/>
 
+## 후기
+데이터셋 없이 처음으로 진행한 프로젝트로 데이터셋 생성 및 수집부터 모델 학습까지 혼자 수행하면서 프로젝트 일련의 과정을 이해하고 여러 모델에 대해 비교 실험을 진행하는 방법에 대해 자세히 배울 수 있었습니다.
 
