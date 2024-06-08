@@ -52,7 +52,9 @@
 <br/>
 
 ## ✔️ Flow Chart
-
+- 프로그램의 전체적인 흐름도
+- 사용자의 줄넘기 수행영상을 입력으로 받아 openpose 라이브러리에서 제공하는 MPII 모델을 통해 각 프레임별 관절 좌표 데이터를 추출
+- 추출한 관절 좌표데이터를 학습 데이터셋으로 사용하여 LSTM 모델을 학습
 <br/>
 
 ![image](https://github.com/KJirung/Jump-rope-count-measurement-program/assets/142071404/ffeb73b0-ed7d-421f-8ab6-43a0bcf90208)
