@@ -57,7 +57,8 @@
 - 추출한 관절 좌표데이터를 학습 데이터셋으로 사용하여 LSTM 모델을 학습
 <br/>
 
-![image](https://github.com/KJirung/Jump-rope-count-measurement-program/assets/142071404/ffeb73b0-ed7d-421f-8ab6-43a0bcf90208)
+![프로그램 개요도](https://github.com/KJirung/JumpRope_Count_Measurement/assets/142071404/15df2634-8e8b-4e52-916d-8cf7d94318f6)
+
 
 ---
 
