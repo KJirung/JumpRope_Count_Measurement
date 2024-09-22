@@ -13,7 +13,7 @@
 <br/>
 
 ## ✔️ 프로젝트 소개
-줄넘기 개수 측정 프로그램은 인공지능 기술 기반으로 사용자의 줄넘기 수행 영상을 입력으로 받아 프레임별 각 관절 좌표 데이터를 이용하여 줄넘기 수행 개수를 측정하는 프로그램입니다.
+줄넘기 개수 측정 프로그램은 인공지능 기술 기반으로 사용자의 줄넘기 수행 영상을 입력으로 받아 프레임별 각 관절 좌표 데이터를 이용하여 줄넘기 수행 개수를 측정하고, 각 관절 좌표에 대해 Correlation Cofficient Analysis, Odds ratio 분석, SHAP 분석을 수행하여 인사이트를 도출하는 프로젝트입니다.
 
 ---
 
@@ -39,13 +39,13 @@
    - OpenCV
      
 - 사용한 인공지능 모델
-   - Gradient Boosting Classifier
-   - KNeighbors Classifier
-   - Logistic Regression
-   - Random Forest Classifier
-   - Support Vector Classifier
-   - DNN
+   - Random Forest
+   - Extra Trees
+   - Cat Boost
+   - Light GBM
+   - XG Boost
    - LSTM
+   - Transformer
 
 ---
 
@@ -57,7 +57,8 @@
 - 추출한 관절 좌표데이터를 학습 데이터셋으로 사용하여 5개의 머신러닝 모델과 2개의 딥러닝 모델을 학습.
 <br/>
 
-![프로그램 개요도](https://github.com/KJirung/JumpRope_Count_Measurement/assets/142071404/15df2634-8e8b-4e52-916d-8cf7d94318f6)
+![overall system](https://github.com/user-attachments/assets/5ee1c05a-a380-41f3-af5e-e135f1dca2ca)
+
 
 
 ---
